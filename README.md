@@ -1,5 +1,6 @@
 # Ex No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
-
+JAYA VISHAL M 
+212223060102
 ## Aim
 
 The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cadence EDA tools, ensuring accurate logic operation through waveform analysis and verification.
@@ -43,19 +44,20 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ## Circuit Diagram
 
 ### 1. Schematic of Full Custom 2:1 MUX
-*![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![3e94m7r5](https://github.com/user-attachments/assets/60fe4f1d-46b8-43c1-ac70-7e4e750bf927)
+
 
 ### 2. Transient Response Setup
+![e3xwraac](https://github.com/user-attachments/assets/03d7d3e0-6abe-435d-a640-cbb64c541e86)
+![rn1cndv5](https://github.com/user-attachments/assets/3259dfd6-8e00-42fb-ae5f-71e80625e1b7)
 
-*![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)*
 
-
-![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
 
 ## Output
 
 ### 1. Transient Analysis Output
-*![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)*
+![aedrc4lq](https://github.com/user-attachments/assets/79eb5016-9b50-4be5-a514-e0cd08c5f292)
+
 
 ## Results
 1. Successfully designed the full custom 2:1 MUX schematic using Cadence EDA tools.
